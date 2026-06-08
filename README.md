@@ -1,4 +1,4 @@
-# RentMap — Multi-Vendor Equipment Rental Marketplace
+# RentMap: Multi-Vendor Equipment Rental Marketplace MVP
 
 RentMap is a full-stack PropTech MVP built to support equipment and tool rentals across multiple vendors and categories.
 
